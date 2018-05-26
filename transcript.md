@@ -155,7 +155,7 @@ Transcript
 	  and filter opinions.
 	- Interest groups (sub-projects) should exist to allow for more freedom for
 	  each of them.
-- Debates must be welcome and recognised as a healthy and helpful procedure 
+- Debates must be welcome and recognised as a healthy and helpful procedure
   toward decision making. However, one must stand to make the call if a democratic
   process is hindered by lack of interest (the rest is up for self-evaluation).
 - Though above all, a community rely on a specific set of "cultural understanding"
