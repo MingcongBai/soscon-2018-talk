@@ -1,163 +1,181 @@
-Transcript
-==========
+Slide 1
+-------
 
-- History of our community...
-	- How it all started from a random thought. (Bai)
-	- Misleading goals and the "development team". (Yhi)
-	- The push for community; a.k.a. fighting temptations of fame. (Bai)
-	- Our silent pathway since 2013. (Yhi)
-	- The importance, and the methodologies for recognition. (Bai)
-- Technologies and in support of technologies...
-	- AOSC OS. (Yhi)
-	- Localisation. (Bai)
-	- Failing projects, the dealing and the lack of dealing. (Yhi)
-- Building a community where we find belonging, and having fun in mundane works...
-	- Culture of AOSC, some allures. (Yhi)
-	- What is a community to an ecosystem of free and/or open source software. 
-	  (Bai)
-	- Recognising the God? (Bai)
-	- Make it more like a school club, but no less a congress. (Bai)
+闲置
 
-[H] How it all started...
------------------------------
+Slide 2
+-------
 
-- AOSC did not start with a goal to promote open source or (much less) the Free 
-  Software Movement.
-	- Almost hilariously (cliché), it started with a read of "Steve Jobs", his
-	  biography at night.
-	- NeXT, and the spirit of craftsmanship.
-	- Politics class, the importance of Created in China.
-	- Well here we go, one man against the world.
-- Followers exists, but they joined the "cause", not the "action".
+下午好，我是来自安同开源社区（AOSC）的白铭骢（，我是黎民雍）。今天和大家来分享下我们社区这几年的历史、现状和一些人生的经验。
+可能大家甚至还没有听说过这个野鸡组织，我们简要介绍一下。安同开源社区简称 AOSC，是一个以学生力量主导的开源社区，社区主要项目是 AOSC OS，一个独立的 Linux 发行版，另有许多周边项目。（……）
 
-[H] Misleading Goals and the "Development Team"
------------------------------------------------
+Slide 3
+-------
 
-- Seeing fame as the fuel of involvement? "Genius middle school developer", yuck.
-- Bureaucracy and politics, formality over functionality.
-- // TODO
+今天我们叫“开源社区”，但追溯到 2011（？）年安同的起源，我们实际上并不曾是个“开源社区”。最开始的时候，安同不过是一个由三名初三学生在史蒂夫・乔布斯去世之际，在阅读了《乔布斯传》之后，以他曾经创立的 NeXT 为灵感，组成的开发团队，所想要开发的一个操作系统。
+最开始这个系统叫做 Creator.K（创造者内核）。这之后，他们又想到了 Anthon 这个词。之后，纠结再三，他们把 Anthon 译作“安同”，取义“安于同学合作”这是 AOSC 名字的来源。
+怀揣着这个梦想，三位初创成员开始着手这一项目，在不断寻找“自创操作系统”的可能性的同时，也在互联网和学校里进行宣传。
 
-[H] The Push for Community
---------------------------
+Slide 4
+-------
 
-- Community formed on December 1st of 2012.
-- Community does not form simply because it's called that.
-	- Lessons to be learnt?
-	- Contribution and collaboration, and the sense of belonging and existence in 
-	  a community.
-- Temptations for fame, the dream of mass coverage and involvement.
-	- Evaluation of the tasks of an individual and the community within the world.
-	- Smashing the mirror and finding excuses.
-- Refusal to learn.
+当时在初中无形中受政治课影响最大的一点就是对中国“制造”和“创造”的理解，乔布斯自传中的“创举”恰好和这个观点相符。
+可是，年少轻狂，总是想着作为学生（尤其初中生）做点什么一个是能在同学之中脱颖而出，能有什么公众关注。从一开始就缺少一种踏实的态度，仗着自己对计算机软件有限的理解，首先去担心如何能让别人知道自己的想法，却没有想过制作一个 Linux 发行版所需要投入的技术成本、人力和精力。“成名心切且自命不凡”的态度决定了我们在这个时期所做的和所说的。现在回看一个词就是 cringe，不过黑历史还在后面。
+经历过这段，我认为“中二病”确实是个现实中存在的一种心理状态，一是对自己特殊性的过度重视，二是对一些“程序”和“仪式”特殊的癖好。下面要简要说的安同开发团队的短暂历史，也和这点密不可分。
 
-[H] Silence
------------
+Slide 5
+-------
 
-- Final lesson, quarrel at the Tieba, and yet another letter of excuses.
-	- What is a community that only sales itself?
-- A realisation to settle down in technologies.
-- The poisonous pill of a "gated community".
+这就是 AOSC 的第一阶段：安同开发团队。和传统的开发团队相同，三名初创成员拉拢了一些（潜在的）开发者之后，将大家组织成一个紧密联合的团体（建了个群），然后照旧是传统思路：上层负责设计，并指派任务到下层，让开发者实现。在深入接触开源社区之前，这样的想法是非常自然的。但是这一“开发团队”的工作效率，无论是在管理者还是众开发者看来，都是十分“低下”的。
+究其原因，首要的一点是当时的成员缺乏对社区和开放参与的理解，认为（……）
+其次还是中二病发，走形式多于实干。在那时的我们看，初中生组成的 95 后开发团队，简直就是狂拽酷帅 dió 炸天啊，大家快来看，我们是初中生开发者诶！还设计了不同样式的队旗，好让整个项目显得高大上。
+再者，那时的我们并没有认识到问题的本质（？），那就是学生组成的团体并不能和全职开发团体比。安同对于所有参与者来说，不过是业余爱好项目，参与时间零散不一。在一个“靠爱发电”的项目上，再被任务分配一番，开发者在他不预期接受压力的项目上感觉到了压力，积极性自然就会下降，开发团队任务分配的效率就会变得奇低。
 
-[H] The Importance and Methodologies for Recognition
-----------------------------------------------------
+Slide 6
+-------
 
-- Culture of AOSC, to recognise professional and scientific attitudes...
-- More in the last section.
+开发团队本身的组织也越来越复杂，什么“决策组”，“周边组”，“宣传组”里面往往只有一个人，而到底来说团队里可能就一两个人在做事，而剩下的也便是“挂名”。
+开发团队的“工作”就这样进行了一年，到这个时候，无论是我本人还是团队中的许多人都已经意识到自己像是在一个传销团伙里面工作了一年，叫着响亮的口号，却不见得做了多少实际的事情。
+到 2012 年底，团队中的人际矛盾也开始显现出来，争吵也时常发生，一是迷惑于为什么在一个团队里并没有几个人能真正指派到工作，二是质疑这个团队的意义是否在于抬举其中几个成员，只是一个“个人宣传计划”。
+而后团队中的一名成员（网名“小鸡”）提出建立社区的想法，这个时候，开发团队（包括我本人）才第一次接触到“开源社区”的概念：开放的边界，不再有什么所谓的“加入申请”和从上到下的管理结构，以共同的目标和兴趣来确定社区本身的“边界”；社区内的每个人也能根据这个共同目标和兴趣以及自己的能力来建立或自己的项目或加入其他社区项目，以便充分利用每个人的才能。当然这个概念也和很多老牌社区例如 Debian 不同，考虑到当时的人数制约和作为学生有限的理解（当然这不是在假设所有学生都缺乏这方面充分的认识，在这几年来也认识了相当多的低龄“社区人”，到现在都让我羞愧于与其比较），这个社区定义更类似于一个缺少“社长”和管理结构的校园社团。“安同开源社区”（AOSC）就这样在 2012 年 12 月 1 日建立了，每年到这个日子是我们社区的周年庆祝日。
+但是建立社区不是我们对“社区”建设探索的终点，社区只是个概念，尽管实现了也只是个框架。一个社区的内容，它的文化、共识以及内外形象都是需要经历相当长的时间才能建成并具体化的。这个时候的 AOSC 也没能完全抛弃之前开发团队阶段的一些痼疾。
 
-[T] AOSC OS
------------
+Slide 7
+-------
 
-- What started it all, and still drives it all.
-- // TODO
+从“开发团队”转制到“开源社区”之后，曾经的管理者也变成了社区的成员之一，但他们仍然是社区的精神领袖（当然，现在还有）。无论是事实上仍然起到带头作用的精神领袖们还是刚从开发团队被带到开源社区的不知所措的参与者们，都没有搞清楚开源社区到底是什么东西，它应该有怎么样的文化内涵，有怎么样的形象，成员们要达成怎样的共识。在这个节骨眼上，不少的成员因为对决策的不满（？），离开了 AOSC（退群了）。
+留下的成员继续进行 Linux 发行版“安同 OS”以及一些周边项目的开发。然而和在开发团队里时一样，社区成员仍然非常看重自己“学生”的身份，社区的心态依然是“扭曲”的。有时社区的成员会在其它 Linux 社群，比如百度 Linux 吧，上提到安同 OS，并鼓吹一番，当大家问起 AOSC 是什么的时候，大家都会很自豪地说“是完全由学生组成的开源社区”。
+加上当时社会开始重视并鼓励计算机软件上的国产创新，自开发团队以来各开发者“为中国创造”的梦想似乎又一次得到了实现的机会。（……）
+（分工经验缺乏）……
+甚至因为以学生组成为傲，（……）
 
-[T] Localisation
-----------------
+Slide 8
+-------
 
-- The importance of localisation, and the lack thereof.
-	- The "convenience" and "consistency" of English UIs.
-	- Just an ideological goal with statistics?
-	- Not everyone's willing to use English, as standardised as it is.
-- Localisation aids in understanding - though only with good ones.
-- Localisation as a channel of upstream interaction.
-	- The "personal" business of open source involvement - connections.
-- At the very least, a good way to allow for utilisation of non-technical skills, 
-  to further boost contribution and involvement from the downstream level.
+AOSC 的历史中总是充满了教训，或细微而温柔，或显著而无情。而当今的 AOSC 社区的面貌，尤其在对待其对外交流和技术手法方面，很大程度上说，其基础是由 2013 年初一次与百度上 Linux 吧成员的一次冲突建立的。
+前面谈到过许多社区初期保留的一些痼疾，到了这个时候最显著的还是对自身社会角色的认识以及技术与政治混杂的问题。但是，到这个时候，AOSC 的开发活动基本上已经恢复，“安同 OS”也转入基于 Debian 做衍生版本的阶段。当时主要工作有几个：一是改善中文翻译（初步开始参与上游工作），二是对界面进行定制和美化，三是相对于 Debian 对 KDE 4 的最新版本进行追赶适配。
+当时的社区中对能做一点实际的工作还是感受到了一定的成就感，但是爱高调宣传的毛病战胜了埋头踏实做事的念头，还是看着自己是个高中生，还是觉得自己在为中国创造作了贡献——便从 2012 年底开始在 Linux 吧和 Ubuntu 中文论坛进行了大规模的宣传攻势：什么“为中国用户和新手优化”，什么“飞快启动”，都是当时的口号——但是到头来只是小规模的本地化工作以及换用 systemd 并关闭部分服务造成的必然的启动速度改善。宣传心切，也不知天高地厚，到了 Linux 吧自然是被四处嘲讽和怀疑，到头来，开发者自己也清楚这么一个“发行版”也只是比其他人对自己的 Linux 发行版做了点外观修饰多做了那么点，更何况还是个“社区产品”。
+当时肯定的声音也不是没有，但是对待褒奖和批评也是社区当时缺乏的一点基本技能。将褒奖的人作为自己的伙伴，而将批评的人作为敌人，甚至上纲上线地标记他人为“崇洋媚外”和“美分”，总觉得“在做事情”的自己在正义的一方，在历史的正确面上。
+当时贴吧上一用户叫“大地精”，也便成为了社区的头号敌人，一旦出现，便叫上社区成员与其打群架——论战。而到 OS1（当时已经将一开始基于 SUSE Studio 做的“概念”版本定为 OS0.5）快到 RC 阶段的时候，与其冲突变得尤为尖锐。“大地精”自己动手安装了安同 OS 并且一路嘲讽，像是否定了我们“社区化”一年的努力。
+而我本人也是“义愤填膺”，总感觉对方否定了我们作为学生的任何一点尝试和努力，总觉得自己像是什么韩国天团 *cough* ，便“代表”社区写了一封“给 Linux 吧的一封公开信”，信中描述社区的努力和“年轻成员”可能感受到什么“伤害”，请求对方能够稍微放缓批评而多去“理解和鼓励”。
+而互联网是个公平而无情的地方，这篇“公开信”明显的矫揉造作不仅造成了更大反弹，还导致了社区中再次出现数次激烈争执并直接造成了 OS1 再没有完成其开发计划。当时有对安同 OS 这个“操作系统”的意义和未来价值的怀疑，对社区一直以来抱有政治色彩和对学生身份过度重视的批评，更重要的还有对社区一直缺乏诚信、夸大其辞的宣传方式逐渐强烈的抵制。
+这段历史在社区中少有被提及过，而我本人也是第一次鼓起勇气在这里描述这段黑历史。在此先对当时自己幼稚的做法对社区成员和贴吧相关人士诚恳地道个歉，也对各位在此之后持续参与到社区活动的各位表示感激。
 
-[T] Failing Projects and the Dealings
--------------------------------------
+Slide 9
+-------
 
-- // TODO
+这样一个风波过去之后，AOSC 停止了（几乎）所有的对外宣传，社区成员也选择几乎不再对外提及我们的作品。但是，社区各项目的开发并没有停止。这段沉寂的时间里，社区成员开始尝试探寻开源社区真正的意义。
+Linus Torvalds 有一句话，“大多数优秀程序员不为报酬或众人的溢美之词去编程，而是因为编程之乐。”(Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.)（……）
+就这样，沉闷的五年过去了，直到今天我们再次鼓起勇气，站到学生开源年会的讲台上来。这五年来社区的参与者来来往往，但人数不断增加，不仅作为社区主业的 AOSC OS 的开发者数量越来越多，其用户数量也越来越多。
+我们开始践行“少说话，多做事”的原则。（……）
 
-[C] Culture of AOSC, and Some Allures
--------------------------------------
+Slide 10
+--------
 
-- "AOSC's one and only pursuit is for the advancement of open technologies that 
-  benefits technology users like us who work for the community, and you who 
-  enjoys results from our effort."
-- Endorsement of volunteer work and hobby-driven involvement.
-- Emphases on techonology and a sphere of common "special" interest.
-	- Rejection of those that does not serve the purpose.
-	- Geographic and political neutralism.
-- AOSC OS will never try and be endorsed by the FSF...
-	- What works best and are allowed to redistribute are acceptable.
-	- If the users ask for it, our job is to provide, or to explain why it could
-	  not be provided.
-	- ABSOLUTELY NO WARRANTY? What does it mean to a user, and their deserved 
-	  respect?
-	- What is "Free as in Freedom"?
-- [All those aside...] How are people in AOSC like, and what does AOSC welcome?
+如今的 AOSC 是个一切以其项目为指导而相互组织协作的社区，可以说是一个因为其项目才得以存在的社区。无论是其文化，其成员之间的友谊，都是因为这些项目的存在才得以实现的。在社区后来的历史中，项目数量曾有过多次的膨胀，社区也一直认为其存在是为了为其众多项目的开发者提供共同的平台，而不只是简单地保障单一项目——安同 OS 的开发组织。
+关于项目的介绍，我们还是得从我们一直以来参与最多且工作投入最大的项目，AOSC OS。AOSC OS 的历史说来话长，不过简要地说，2014 年 AOSC OS 在我们社区成员郑兴达的指导下转入了独立构建。她从初中生时期就已开始独立制作一个叫“东方之心”或“Heartl”的 Linux 发行版，基于 LFS 或 Linux From Scratch 的指引衍生并引入了包管理。
+但是，安同 OS（到 2014 年夏季重启并完成了 OS1 正式版本且进行了第一次代号公投，并不可避免地投出了个 Doge）一直以来是一个针对 64 位 x86 处理器制作的发行版，而“东方之心”坚持只提供 32 位 x86 支持，外加当时刚刚立项的 CentralPoint 版本，基于 Debian 并针对 64 位 x86 服务器。后两者一直没有在社区里面得到太大关注，不过遵循社区中允许多项目并行的基本属性便造就了一个社区三个发行版的混乱现象。
+不过回到刚刚的故事，我当时作为安同 OS 的主要开发者，提出了 The :Next Project，Next 左边有个冒号，用于表达在前面加入不同的项目，意味着社区众多项目进入走进新的阶段，或者像安同 OS 一样进行开发重启。一个暑假之后，OS2，第一个独立构建发行版的尝试就这样成型了。
+而后几年，CentralPoint 和 Heartl 项目都先后终止，而安同 OS 也从一个针对桌面的发行版转变为了合三者为一体的 AOSC OS，通用于多种设备和多种架构。而 AOSC OS 本身也发生了许多变化，从 OS3 开始不再针对 KDE 4 一个桌面而是开始多样化用户体验，并与此同时放弃对系统本身进行大范围定制；而在 OS3 正式版出现之后，系统转入了 Core + OS 的两层结构，前者保留核心运行时、工具链并提供一个抽象的“版本号”如 4.1 和 5.2.1 之类来识别发行版本身的“代系”，而后者提供剩余的应用程序和链接库，进行滚动更新；而从去年暑假开始的 Core 5 周期，我们又引入了测试 + 稳定双线的更新模型，并且到今年年初将系统的架构支持范围扩大到了 8 个。我们会在后面几页继续深入描述这些当前的特性。
 
-[C] What is a Community to the Ecosystem of F/OSS
--------------------------------------------------
+Slide 11
+--------
 
-- See it as a local "hub" or "office" for a world-level involvement.
-- A downstream community such as AOSC acts as the first proving ground for many
-  involved, a relatively safe and relaxing environment to gain skills.
-	- This could vary, of course.
-- We are limited to our scope and confined to our own project.
-	- However, it should be considered a basic principle for a community to value
-	  and respect contribution to the upstream.
-	- It is not a requirement however.
-- However, we are empowered to act as a collective, and are (potentially) capable
-  of change... Localisation, for example.
-	- Oh boy that was fun with GNOME.
+AOSC OS 在我们的历史上一直是最重要的项目，是人力的最主要集中点。AOSC OS 代表着我们这个群体近七年来不断的思考和实践。
+现今的 AOSC 社区中众多的工作都是围绕着 AOSC OS 进行的，无论是对系统本身的开发、维护和测试工作，还是针对其开发工具的项目以及社区的本地化工作，大多是以持续改善 AOSC OS 的可用性和质量为最终目标的。下面我们会对 AOSC OS 和社区的本地化工作进行详细的介绍。
 
-[C] Recognising the God?
-------------------------
+Slide 12
+--------
 
-- In an open source community, especially in a volunteer setting, developers
-  deserve to be respected and understood with their time constraints and
-  contributions.
-	- To an extent, these developers are free of blames - they could still be
-	  terrible, of course.
-- However, developers should not detach themselves from the community.
-	- A community where users could not casually talk to developers and that the
-	  developers see users as superiors is no community, but a team-audience
-	  cooperative.
-	- Typical open source community?
-		- Stereotypes... Disappearing developers, "stupid questions", and quiet
-		  chatting groups/mailing lists.
-	- People are here to have fun and to (hopefully) find something useful for
-	  themselves...
-		- Finding a good tool for their work, say, AOSC OS as it might be.
-		- To prove, improve, or show-off their skills.
-		- Just about anything, maybe just finding some good chat mates.
+在 AOSC OS 的自身定义方面，我们采用了非常传统的“Linux 发行版”概念，也就是我们作为发行商，基于 Linux 内核提供最基本的软硬件支持，并甄选软件提供给用户。AOSC OS 不是“操作系统”，更不是类似 Windows 或 macOS 这样一个定型的产品，AOSC OS 允许用户和发行商自由组合定制以适应不同使用场景。
+我们也一直坚信用户选择 AOSC OS 时选择的是一个自认为适合自己的工具平台，而我们的责任在于维持这个平台的可用性，不少于也不多于这点。
 
-[C] Make It More Like a School Club, But No Less a Congress
------------------------------------------------------------
+Slide 13
+--------
 
-- Again, people are here to have fun and find whatever goal they may have, in
-  which the community may benefit to its own set of goals.
-	- It's no negotiation but a happy coincidence.
-- A community is no democracy...
-	- While each of the leading figures of a specific sub-project needs to take
-	  charge and (try to) ensure its survival, there is no need to segregate tasks
-	  and filter opinions.
-	- Interest groups (sub-projects) should exist to allow for more freedom for
-	  each of them.
-- Debates must be welcome and recognised as a healthy and helpful procedure
-  toward decision making. However, one must stand to make the call if a democratic
-  process is hindered by lack of interest (the rest is up for self-evaluation).
-- Though above all, a community rely on a specific set of "cultural understanding"
-  and elements of agreement. A community that tries to satisfy all may have
-  democracy, but is no sustainable community.
+也正因如此，我们在维护系统定制自由度的同时，对发行版做出了一些微小的创新设计。
+前面提到 OS1 到 OS2 最大的变化就在于系统从基于 Debian 的衍生发行版变成了基于 LFS 的独立发行版。这样一来我们对发行版的定制度就有所提升，并不仅限于定制用户界面。
+AOSC OS 所做的第一个设计就是简化了软件包的组织形式。简单来讲，相对于同样使用 dpkg 的 Debian 以及 Ubuntu 的细粒度软件包拆分，AOSC OS 坚持以空间换时间的策略，除非分包带来的便利更多或非分不可，对一份软件来讲，AOSC OS 能不分包则不分包。
+AOSC OS 注重开箱体验。为了让以中文为母语的用户在安装完系统的第一时间就能上手，我们对软件本地化，也就是“汉化”十分重视。与此同时 AOSC OS 也针对其他语言的潜在用户预先进行字体适配，以我们有限的知识保证他们的使用体验。一会儿我们会详细谈社区的本地化工作。
+和众多发行版一样，AOSC OS 针对数个不同的处理器架构做了移植，除了 64 位 x86 处理器架构外，AOSC OS 还有小端序 ARM 32 位、小端序 ARM 64 位、小端序 MIPS 32 位、小端序 MIPS 64 位、以及针对稍老 Macintosh 电脑适配的大端序 PowerPC 32 及 64 位处理器的移植，最近还新增了 RISC-V RV64GC 架构的移植。AOSC OS 在不同处理器架构上都有一套优化方案，比如在 64 位 x86 处理器架构上，AOSC OS 全局打开了 SSE3 的编译器优化；在 ARM 和 MIPS 平台上，AOSC OS 要求使用硬件浮点数处理器；而在 PowerPC Macintosh 唯一一代支持 64 位的 G5 上，我们打开了 AltiVec 指令集支持。尽管如此，我们在用户体验上，仍然追求跨处理器架构的一致性。
+AOSC OS 由用户参与并由用户驱动。一些问题和功能性改进开发者往往不能顾全，因此 AOSC OS 的进步很大程度上靠的是用户的持续反馈。如果用户希望在 AOSC OS 上使用某些源里没有的软件，用户可以通过在 GitHub 上开 Issue 或使用社区交流群里的机器人，申请软件包（我们把这个过程称作 pakreq）。AOSC OS 从去年暑期引入的测试 + 稳定双线的更新模型也允许任何人 Opt-in 到测试分支里来测试下一个月度周期要发布的软件包的稳定性（就像 Windows Insider 一样，但 AOSC 的……）
+AOSC OS 坚持可用性为先，“不扰民” 的原则。（……）
+
+
+Slide 14
+--------
+
+从 OS3 后，AOSC OS 引入了 Core + OS 概念。这是是目前 AOSC OS 最基本的更新方式。Core 一开始的思路不仅仅是给 AOSC OS 提供一个应用和核心的分隔，而是给 AOSC OS 本身及可能存在的基于 AOSC OS Core 衍生的发行版提供一个共同的“兼容定义”，同样的工具链和核心库版本和配置，而 Core 外的任何东西都属于发行版本身的设计，互不干涉。当然，到今天我们也没能看见这个“衍生发行版”的出现（笑）。
+Core 本身包含不到 30 个软件包/组件，但是定义了最基本的 C 和 C++ ABI 兼容性并提供了最基本的编译器和库。Core 相对于其外的部分，更新相对保守，在每个大周期——也就是 x.y.z 版本格式中的 x——中尽可能少地去引入新特性，只修复已知 bug、安全漏洞和兼容性问题。每次大周期（大约是一年），Core 才会大幅度更新其内容，以并引入新的技术特性。
+而到去年暑期开始的 Core 5 周期之前，AOSC OS Core 外的部分是完全滚动更新的，频繁的更新带来了最新的软件包，但是对测试周期的忽视也将很多上游和 AOSC OS 打包者造成的问题转换成了用户的困扰。而从 Core 5 开始，我们开始引入了一个基于时间周期的测试—更新模型以保证用户能及时且相对自信地接收和安装更新，而喜欢走在风口浪尖的用户也能选择打开 testing 源来接收最新的更新和功能修改。
+但是与此同时暴露的也是我们社区依然存在的人力问题。一开始的计划是一个月内完成一次更新周期，或 Monthly Wave，但是一个月内可能更新的软件包往往要接近 1000 个，这给我们目前依然相当依赖手动操作的打包工作带来了相当大的压力。到现在，我们基本稳定在一个基于季度的更新周期，或 Seasonal Wave。
+这个模型的另一部分是引入安全更新频道和安全公告这两个发行版设施，安全更新和可用性修复一样是这个 Wave 系统的两个特例，这些软件包会经过第一时间打包和开发者测试后直接推送到稳定源给用户获取。而安全公告就是一个相当传统的机制，我们叫 AOSA（或 AOSC OS Security Advisories），根据年份分类并编号，并在我们的 GitHub 页面上发布，每半个月也会在邮件列表上公布。
+不过由此看来还是可以得到一个结论，AOSC OS 依然在进行许多的实验和实践，目的就是给用户们提供一个便利且稳定的工作平台，符合这个原则的事情我们会作为基本的“哲学”来坚持，而不符合的，便作为问题案例进行讨论并改进或丢弃。这就是 AOSC OS 的目前现状。
+
+Slide 15
+--------
+
+如果你对尝试 AOSC OS 或参与到其开发工作感兴趣，可以考虑访问这个 Wiki 页面，或在这个 talk 之后到我们社区的摊位找我们切磋切磋。
+
+Slide 16
+--------
+
+我们社区的另一个重要的参与点就是上游的本地化工作，尤其是针对大陆简体中文的本地化工作——当然，这是我们社区目前的人员特征决定的。
+我们认为，社区的主要项目 AOSC OS 是同时作为上游和下游的存在。我们作为一个发行版，是给用户提供工作平台和其他各类维护操作的上游；但是与此同时我们也是一个接收其他开源和商业项目产品及其更新的下游。尤其对于各个组成我们发行版的开源和自由软件项目，我们认为回馈这些项目是我们的责任，而作为一个特定地域语言的使用者，最直观的贡献方法除了反馈问题、提交补丁以外，就是为其本地化项目贡献翻译。
+中国大陆地区对上游开源及自由软件本地化工作的贡献可以追溯到 2000 年之前，可以说是国内多代开发者和社区共同贡献过的方面了。但是一直以来这方面工作一直的志愿性质也导致简体中文本地化工作一直不完全或水平不一的问题。
+我本人是 AOSC 中众多成员中第一个参与到本地化工作的，我当时翻译了 KDE 4 时期的 Homerun 启动器，而后鼓励了其他成员也参与到这个工作中。
+曾经在社区中活跃的 A2 同学捡起了之前 Aron Xu 编撰的《大陆简中自由软件本地化工作指南》并且加入更多项目的本地化工作指引和新的标点规范等等，并尝试反馈给各简中本地化工作组请求意见并推荐其遵守。
+从 2014 年底开始，我们给众多上游项目作出了简中本地化贡献，或大或小，或长期或短期。最主要的几个例子有 GNOME，MATE Desktop，Audacious，FreeDesktop.org 等等，其中 Wine，Octave，LMMS 等等的本地化工作主要是由我们社区的成员组织完成的。
+本地化工作成为了我们在沉默时期和外界沟通最重要的通道之一，社区通过实际的上游工作得到了一定个人和社区的肯定，为我们社区扩大了人脉网；与此同时，也教给许多社区成员（包括我本人）很多和上游沟通的技巧和不成文规则，从长久来说改善了我们社区和上游沟通的效率和方式。
+
+Slide 17
+--------
+
+围绕或不围绕 AOSC OS，AOSC 也有许多各具特色的的周边项目。:-\
+
+
+Slide 18
+--------
+
+17 页继续说，大概开个玩笑即可。
+
+Slide 19
+--------
+
+Slide 20
+--------
+
+我们两个作为 AOSC 相当长时间的社区成员，从主观角度上也对我们社区的文化和特征有一定的理解。在下面几页谈到的事情很多都是根据我们个人及许多社区新老成员交流中得到的几点概括，就在这里介绍一下。
+首先，作为一个开源社区，我们致力于用自己的技术能力和兴趣来改善开源及自由软件在个人计算机的日常使用中的可用性和质量。本着这样的一个基本目标，我们社区尊崇以技术为先，以能力说话，而且相当重视技术工作上的行为道德，这包括：技术讨论基于准确和科学的信息，参与社区项目时保全许可和版权所有权，最后，社区技术不与政治和其他无关基准挂钩。
+其次，我们重视社区本身的性质，这主要体现在“以友好为先”及“以兴趣为本”两点上。
+AOSC 的历史上，我们对社区成员之间的关系一直追求这两个原则。社区成员之间互相的尊重只是基础。我们追求的是，社区成员们能通过多元的社区参与方式建立友谊，并且可以在技术工作内外形成信任和互助。我认为这是 AOSC 能以纯粹的社区形式存在接近一载的一点重要特性，我们不仅保证了技术工作，我们还在这个过程中成为了朋友，在社区中真正找到了归属感，无论工作还是闲时，都能在这个互联网上的群体中找到快乐。
+至于“兴趣”，这更多体现在我们的“运营”模式上，“运营”这词可能不合适，不过实在词穷（笑）。我们在社区“运营”及参与上有两个“零”的原则，那就是零报酬和零经费。我们认为，参与 AOSC 的最大目的是找到一个有共同目标和看法的群体，而不是从中获取什么实际的物质利益。作为一个通过业余时间参与组织起来的社区，我们认为金钱和物质的追求将破坏我们的团结性且不必要地将社区生活复杂化。零经费方面的思路是类似的，我们承认社区不可能不依靠金钱生存，但是我们也反对让社区成为一个基于资本运作的群体。根据这个原则，AOSC 接受实际的服务赞助（如网站服务器、域名及证书等）、硬件捐助，但是我们不接受任何实际的金钱捐助——我们没有具体的财政管理细则，也不会去追求这样的一个细则。
+如此原则的弊端也是明显的，这最明显地体现在我们每年的社区聚会，AOSCC 上。首先，线下聚会需要实际的场所，而在这个原则下我们必须借助高校的支持来得到场地，任何纪念品（比如我们社区内比较出名的 AOSCC 贴纸集，包含各种社区圈内梗和笑话）也需要自费去定做和购买。但是总的来说我们认为，社区额外活动和纪念品等同于志愿性的社区参与，应当借助于志愿的支持，这样才能从各方面以均等的方式来保证社区生活的简洁和最大化的透明度。
+社区虽然定义上是一个自由参与的团体，但是毕竟有定义就有边界，我们社区也遵循“有限包容”的原则。综上所述，我们首要接纳的是对针对开源及/或自由软件的技术学习和应用有兴趣的人群。而从社区文化上，我们鼓励辩证且实用地看待各种类型的软件，包括开源、自由、专有、商用等类型的软件，而不是一味地以一个政治团体一般的身份来拒绝承认各种软件的利弊和纯粹的优劣之分——我们认为合适使用的软件就是应该鼓励使用的软件，但是我们的兴趣依然驱使我们去改善自由和开源软件。
+但是在社区的边界内我们也对一些特定话题和行为有制约和禁止。我们社区，至少在技术工作范围内禁止一切的政治讨论，也禁止对我们社区和其代表的形象进行政治定性——这包括对社区的国籍进行定义或以社区名义发表任何的政治信息，无论是已知的通识内容还是观点。在社区的水群及其他休闲地点，我们也只允许了对政治话题的讨论和辩论，其他行为依然是命令禁止的。
+当然，我们社区的文化不只是在这些方面体现的，我们社区的很多其他共同观点和特殊活动也进一步形成了 AOSC 这个社区的形象和我们作为社区成员的自我辨识。在接下来几页我们还会进一步讨论。
+
+Slide 21
+--------
+
+Slide 22
+--------
+
+Slide 23
+--------
+
+Slide 24
+--------
+
+Slide 25
+--------
+
+Slide 26
+--------
+
+Slide 27
+--------
+
+Slide 28
+--------
+
